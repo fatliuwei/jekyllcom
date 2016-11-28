@@ -25,8 +25,8 @@ overview: true
     <div class="banner"><!-- 轮播部分 -->
       <ul class="imgList"><!-- 图片部分 -->
         <li class="imgOn"><a href="#"><img src="{{ site.img_url }}img/1.jpg" width="888px" height="666px" alt="aa"></a></li>
-		<li><a href="#"><img src="{{ site.img_url }}/2.jpg" width="888px" height="666px" alt="bb"></a></li>
-		<li><a href="#"><img src="{{ site.img_url }}/3.jpg" width="888px" height="666px" alt="cc"></a></li>
+		<li><a href="#"><img src="{{ site.img_url }}img/2.jpg" width="888px" height="666px" alt="bb"></a></li>
+		<li><a href="#"><img src="{{ site.img_url }}img/3.jpg" width="888px" height="666px" alt="cc"></a></li>
       </ul>
     <div class="bg"></div> <!-- 图片底部背景层部分-->
       <ul class="infoList"><!-- 图片左下角文字信息部分 -->
